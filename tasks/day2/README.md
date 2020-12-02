@@ -1,6 +1,6 @@
 # Day 2: Password Philosophy
 
-## Part 1
+## Part One
 
 Your flight departs in a few days from the coastal airport; the easiest way down to the coast from here is via toboggan.
 
@@ -24,7 +24,7 @@ In the above example, 2 passwords are valid. The middle password, cdefg, is not;
 
 How many passwords are valid according to their policies?
 
-## Part 2
+## Part Two
 
 While it appears you validated the passwords correctly, they don't seem to be what the Official Toboggan Corporate Authentication System is expecting.
 
